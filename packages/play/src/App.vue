@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <rm-button></rm-button>
+  <rm-button type="pirmary" size="small">test</rm-button>
 </template>
 
 <style scoped>
