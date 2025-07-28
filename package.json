@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pnpm --filter @rmm-ui/play dev",
+    "docs:dev": "pnpm --filter @rmm-ui/docs dev",
+    "docs:build": "pnpm --filter @rmm-ui/docs build",
+    "test": "echo 'todo'"
   },
   "keywords": [],
   "author": "",
